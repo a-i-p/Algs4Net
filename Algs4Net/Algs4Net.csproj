@@ -216,6 +216,7 @@
     <Compile Include="UF.cs" />
     <Compile Include="Vector.cs" />
     <Compile Include="UF_W1Q2_CanonicalElement.cs" />
+    <Compile Include="UF_W1Q3_SuccessorWithDelete.cs" />
     <Compile Include="WeightedQuickUnionUF.cs" />
     <Compile Include="WhiteFilter.cs" />
     <Compile Include="Whitelist.cs" />
